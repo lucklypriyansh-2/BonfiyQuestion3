@@ -1,4 +1,4 @@
-package com.hrportal.main.constant;
+package com.bonfiy3.main.constant;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;

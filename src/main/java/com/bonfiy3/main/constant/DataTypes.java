@@ -1,4 +1,4 @@
-package com.hrportal.main.constant;
+package com.bonfiy3.main.constant;
 
 public interface DataTypes {
 

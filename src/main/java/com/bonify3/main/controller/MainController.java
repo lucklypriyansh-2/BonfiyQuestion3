@@ -1,4 +1,4 @@
-package com.hrportal.main.controller;
+package com.bonify3.main.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.hrportal.main.constant.DataTypeFactory;
-import com.hrportal.main.constant.DataTypesEnum;
+import com.bonfiy3.main.constant.DataTypeFactory;
+import com.bonfiy3.main.constant.DataTypesEnum;
 
 @RestController
 public class MainController {
