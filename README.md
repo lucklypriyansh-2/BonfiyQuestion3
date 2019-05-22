@@ -6,10 +6,16 @@
 STEPS TO RUN 
 
 Make sure java is installed
+
 DOWNLOAD THE PROJECT
+
 GO TO DIRECTORY WHERE PROJECT IS DOWNLOADED 
-run ./mvnw clean install
+run
+
+./mvnw clean install
+
 cd target/
+
 java -jar Question3-0.0.1-SNAPSHOT.jar &
 
 CURL REQUEST
